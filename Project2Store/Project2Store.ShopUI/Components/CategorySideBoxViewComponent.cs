@@ -13,6 +13,8 @@ namespace Project2Store.ShopUI.Components
         }
         public IViewComponentResult Invoke()
         {
+            var currentCategory = RouteData?.Values["category"];
+            ViewBag.Category = currentCategory;
             return View(productRepository.GetAllCategories());
         }
     }
