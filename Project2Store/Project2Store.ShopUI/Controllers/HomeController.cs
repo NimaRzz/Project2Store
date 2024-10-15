@@ -6,7 +6,7 @@ namespace Project2Store.ShopUI.Controllers
     public class HomeController : Controller
     {
         private readonly IProductRepository productRepository;
-        private int pageSize = 4;
+        private int pageSize = 2;
 
         public HomeController(IProductRepository productRepository)
         {

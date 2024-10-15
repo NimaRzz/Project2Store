@@ -23,5 +23,8 @@
             result.PageInfo.TotalCount = storeDbContext.Products.Where(p => string.IsNullOrWhiteSpace(category) || p.Category == category).Count();
             return result;
         }
+
+        public List<string> GetAllCategories() =>
+            storeDbContext.Products.Select(p => p.Category).Distinct().ToList();
     }
 }
