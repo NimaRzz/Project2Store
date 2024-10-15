@@ -7,13 +7,15 @@ builder.Services.AddControllersWithViews();
 var cnnString = builder.Configuration.GetConnectionString("StoreCnn");
 builder.Services.AddDbContext<StoreDbContext>(options => options.UseSqlServer(cnnString));
 builder.Services.AddScoped<IProductRepository, EfProductRepository>();
+builder.Services.AddMemoryCache();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
 app.UseDeveloperExceptionPage();
 app.UseStatusCodePages();
 app.UseStaticFiles();
-
+app.UseSession();
 app.UseRouting();
 
 
