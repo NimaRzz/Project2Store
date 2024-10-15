@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\models\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\models\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\models\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\models\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|c:\\users\\asus\\desktop\\new folder\\project2store\\project2store\\project2store.shopui\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88909E9F-4723-4D67-8F0E-D28A9457B22E}|Project2Store.ShopUI\\Project2Store.ShopUI.csproj|solutionrelative:project2store.shopui\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T07:34:08.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductSummary.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Shared\\ProductSummary.cshtml",
-              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Views\\Shared\\ProductSummary.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Shared\\ProductSummary.cshtml",
-              "RelativeToolTip": "Project2Store.ShopUI\\Views\\Shared\\ProductSummary.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T07:32:08.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Project2Store.ShopUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T07:32:02.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PageInfo.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\PageInfo.cs",
               "RelativeDocumentMoniker": "Project2Store.ShopUI\\Models\\PageInfo.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\PageInfo.cs",
               "RelativeToolTip": "Project2Store.ShopUI\\Models\\PageInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:16:14.598Z",
+              "WhenOpened": "2024-10-15T08:11:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project2Store.ShopUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T08:09:31.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "Project2Store.ShopUI\\Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:05:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project2Store.ShopUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:00:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\EfProductRepository.cs",
+              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Models\\EfProductRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\EfProductRepository.cs",
+              "RelativeToolTip": "Project2Store.ShopUI\\Models\\EfProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:58:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Project2Store.ShopUI\\Models\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\New folder\\Project2Store\\Project2Store\\Project2Store.ShopUI\\Models\\IProductRepository.cs",
+              "RelativeToolTip": "Project2Store.ShopUI\\Models\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:57:57.567Z",
               "EditorCaption": ""
             }
           ]
