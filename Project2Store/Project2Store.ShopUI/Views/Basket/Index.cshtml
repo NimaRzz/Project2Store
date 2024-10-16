@@ -17,7 +17,7 @@
             <td>@item.Product.Name</td>
             <td>@item.Product.Price</td>
             <td>@item.Quantity</td>
-            <td>(@item.Quantity * @item.Product.Price)</td>
+            <td>@(item.Quantity * item.Product.Price)</td>
             <td>
                 <form asp-controller="Basket" asp-action="RemoveFromBasket" method="post">
                     <input type="hidden" value="@item.Product.Id" name="productId"/>
@@ -28,7 +28,7 @@
         </tr>
     }
     <tr>
-        <td colspan="2">TotalPrice: </td>
+        <td colspan="4">TotalPrice: </td>
         <td>@Model.Basket.TotalPrice()</td>
     </tr>
 </table>

@@ -9,6 +9,8 @@ builder.Services.AddDbContext<StoreDbContext>(options => options.UseSqlServer(cn
 builder.Services.AddScoped<IProductRepository, EfProductRepository>();
 builder.Services.AddMemoryCache();
 builder.Services.AddSession();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped<Basket>(p => SessionBasket.GetBasket(p));
 
 var app = builder.Build();
 

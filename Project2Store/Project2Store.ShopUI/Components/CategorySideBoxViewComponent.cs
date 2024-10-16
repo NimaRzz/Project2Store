@@ -1,8 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Project2Store.ShopUI.Models;
+﻿namespace Project2Store.ShopUI.Components;
 
-namespace Project2Store.ShopUI.Components
-{
     public class CategorySideBoxViewComponent : ViewComponent
     {
         private readonly IProductRepository productRepository;
@@ -18,4 +15,4 @@ namespace Project2Store.ShopUI.Components
             return View(productRepository.GetAllCategories());
         }
     }
-}
+
