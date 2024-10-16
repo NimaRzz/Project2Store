@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project2Store.ShopUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b916def2cad65e74d336a3c2ce30d225b4764a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd64bfceabda9c087e0615a10e7f9a6a183cd821")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project2Store.ShopUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project2Store.ShopUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

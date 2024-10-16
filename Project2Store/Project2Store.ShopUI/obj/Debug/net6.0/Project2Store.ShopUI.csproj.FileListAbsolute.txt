@@ -63,3 +63,4 @@ C:\Users\Asus\Desktop\New folder\Project2Store\Project2Store\Project2Store.ShopU
 C:\Users\Asus\Desktop\New folder\Project2Store\Project2Store\Project2Store.ShopUI\obj\Debug\net6.0\Project2.624D5757.Up2Date
 C:\Users\Asus\Desktop\New folder\Project2Store\Project2Store\Project2Store.ShopUI\bin\Debug\net6.0\libman.json
 C:\Users\Asus\Desktop\New folder\Project2Store\Project2Store\Project2Store.ShopUI\bin\Debug\net6.0\Project2Store.ShopUI.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\New folder\Project2Store\Project2Store\Project2Store.ShopUI\bin\Debug\net6.0\Newtonsoft.Json.dll

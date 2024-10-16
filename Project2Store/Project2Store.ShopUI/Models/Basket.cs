@@ -29,7 +29,7 @@
 
         public void Clear() => _Items.Clear();
 
-        public IEnumerable<BasketItem> Items => Items;
+        public IEnumerable<BasketItem> Items => _Items;
     }
 
     public class BasketItem

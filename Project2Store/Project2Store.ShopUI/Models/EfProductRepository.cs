@@ -26,5 +26,10 @@
 
         public List<string> GetAllCategories() =>
             storeDbContext.Products.Select(p => p.Category).Distinct().ToList();
+
+        public Product GetById(long Id)
+        {
+            return storeDbContext.Products.FirstOrDefault(p => p.Id == Id);
+        }
     }
 }
