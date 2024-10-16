@@ -1,6 +1,6 @@
 ﻿namespace Project2Store.ShopUI.Models
 {
-    public class EfOrderRepository
+    public class EfOrderRepository : IOrderRepository
     {
         private readonly StoreDbContext storeDbContext;
 
